@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-dkyq5j.hartawin.site/sitemap.xml
